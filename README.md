@@ -7,6 +7,7 @@ HTML, CSS E JavaScript
 # COMO VISUALIZAR O PROJETO?
 
 Acessando o link: https://relogiodigitalste.netlify.app/
+
 ![image](https://media.discordapp.net/attachments/1113549471008174143/1113868566240972980/relogio.png?width=826&height=468)
 
 # COMO FUNCIONA O PROJETO?
