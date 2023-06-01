@@ -30,6 +30,5 @@ Para deixar o relógio com o formato de 24h, foram adicionadas variaveis do tipo
 Para dúvidas ou sugestões entrem em contato por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
 <br>
 </br>
-
-<img align="right" alt="github" height="180" width="180" src="https://i.pinimg.com/originals/0c/0f/44/0c0f44872a475d2d01aacb020391dd7e.gif">
+<img align="right" alt="github" height="180" width="180" src="https://cdn.discordapp.com/attachments/738939478722216027/1108905756503318619/Simple_Black_and_White_Text_Instagram_Post1.gif">
 
