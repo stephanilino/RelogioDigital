@@ -31,4 +31,4 @@ Para dúvidas ou sugestões entrem em contato por meio do [Email](mailto:stephan
 <br>
 </br>
 
-<img align="right" alt="github" height="180" width="180" src="https://i.pinimg.com/originals/79/8c/19/798c194a2fee2ac2036cb0509c94eb4f.gif">
+<img align="right" alt="github" height="180" width="180" src="https://i.makeagif.com/media/3-03-2015/3AyXyZ.gif">
