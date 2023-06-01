@@ -31,4 +31,5 @@ Para dúvidas ou sugestões entrem em contato por meio do [Email](mailto:stephan
 <br>
 </br>
 
-<img align="right" alt="github" height="180" width="180" src="https://github.com/stephanilino/RelogioDigital/assets/134796218/af127900-f2b7-4de9-88ac-7611b1113795">
+<img align="right" alt="github" height="180" width="180" src="https://i.pinimg.com/originals/0c/0f/44/0c0f44872a475d2d01aacb020391dd7e.gif">
+
