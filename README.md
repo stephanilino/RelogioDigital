@@ -21,3 +21,8 @@ Com variaveis do tipo "const" os atributos de horas, minutos e segundos criados 
 O "setInterval" realiza a função tempo, onde as variaveis do tipo "let" e seus valores atribuem a hora exata determinada pelo "dateToday.get"
 ![image](https://media.discordapp.net/attachments/1113549471008174143/1113865151549034576/horas.png)
 
+Para deixar o relógio com o formato de 24h, foram adicionadas variaveis do tipo "if" onde: se a hora for < 10 apresentará o número 0 + a hora exata do dia (o mesmo se aplica aos minutos e segundos, adicionando o número 0 na frente dos numerais abaixo de 0).
+![image](https://media.discordapp.net/attachments/1113549471008174143/1113868068033134692/if.png)
+#
+
+Para dúvidas ou sugestões entrem em contato por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
