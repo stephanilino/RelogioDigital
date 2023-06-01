@@ -15,6 +15,9 @@ Neste projeto foi criada uma página web que exibe um Relógio Digital criado em
 Em um primeiro momento o script foi importado para dentro do html.
 ![image](https://media.discordapp.net/attachments/1113549471008174143/1113861300129382440/script.png)
 
-Com váriaveis do tipo "const" os atributos de horas, minutos e segundos criados no HTML são importados para o documento script por meio do id, utilizando "document.getElementById".
+Com variaveis do tipo "const" os atributos de horas, minutos e segundos criados no HTML são importados para o documento script por meio do id, utilizando "document.getElementById".
 ![image](https://media.discordapp.net/attachments/1113549471008174143/1113863515074215957/const.png)
+
+O "setInterval" realiza a função tempo, onde as variaveis do tipo "let" e seus valores atribuem a hora exata determinada pelo "dateToday.get"
+![image](https://media.discordapp.net/attachments/1113549471008174143/1113865151549034576/horas.png)
 
