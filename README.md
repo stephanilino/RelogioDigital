@@ -28,3 +28,7 @@ Para deixar o relógio com o formato de 24h, foram adicionadas variaveis do tipo
 #
 
 Para dúvidas ou sugestões entrem em contato por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
+<br>
+</br>
+
+<img align="right" alt="github" height="180" width="180" src="https://i.pinimg.com/originals/79/8c/19/798c194a2fee2ac2036cb0509c94eb4f.gif">
